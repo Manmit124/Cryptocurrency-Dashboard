@@ -1,7 +1,7 @@
 <h1 align="center">
   <br />
-  <a href="https://readers-space.netlify.app/">
-      <img src="https://user-images.githubusercontent.com/63870995/209679174-1bada3c7-643d-45e7-a1af-2a9759edd869.png" width="200"/>
+  <a href="[https://readers-space.netlify.app/](https://cryptocurrency-dashboard-seven.vercel.app/)">
+   
   </a>
   <br/>
   Cryptocurrency Dashboard
@@ -31,7 +31,8 @@
 <br />
 Visit <a href="https://cryptocurrency-dashhboard.vercel.app/">Cryptocurrency-dashboard</a> and discover cryptos, charts, and MarketCaps!
 
-![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
+
+![image](https://github.com/Manmit124/Cryptocurrency-Dashboard/assets/112580293/161d166a-87cc-4a35-997e-2eef2e23d175)
 
 <br />
 <!-- FEATURES -->
