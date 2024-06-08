@@ -1,0 +1,52 @@
+/* Update scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px; /* Decreased width for a sleeker appearance */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light gray background */
+}
+
+/* Thumb */
+::-webkit-scrollbar-thumb {
+  background: #888; /* Dark gray thumb color */
+  border-radius: 4px; /* Rounded corners for the thumb */
+}
+
+/* Update body styling for a modern UI */
+body {
+  font-family: 'Roboto', sans-serif; /* Choose a modern font */
+  background-color: #f8f8f8; /* Light background color */
+  color: #333; /* Dark text color */
+}
+
+.container {
+  max-width: 1200px; /* Set maximum width for content */
+  margin: 0 auto; /* Center content horizontally */
+  padding: 20px; /* Add padding for better spacing */
+}
+
+.header {
+  background-color: #6200ee; /* Purple header background */
+  color: #fff; /* White text color */
+  padding: 20px;
+}
+
+.footer {
+  background-color: #6200ee; /* Purple footer background */
+  color: #fff; /* White text color */
+  padding: 20px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.card {
+  background-color: #fff; /* White card background */
+  border-radius: 8px; /* Rounded corners for the card */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+  padding: 20px;
+  margin-bottom: 20px; /* Add margin between cards */
+}
